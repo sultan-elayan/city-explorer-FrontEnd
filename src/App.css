@@ -44,3 +44,22 @@
   padding: 10px;
 
 }
+
+
+#movies{
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+
+}
+
+
+
+#weather{
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+
+}
